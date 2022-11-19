@@ -1,7 +1,7 @@
 {
-  "name": "tarea2",
+  "name": "tarea3",
   "version": "1.0.0",
-  "description": "tarea 2 backend Numen",
+  "description": "tarea 3 backend Numen",
   "main": "index.js",
   "scripts": {
     "dev": "node server.js"
